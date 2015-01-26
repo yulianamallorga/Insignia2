@@ -22,6 +22,7 @@ h1{
 }
 .contenedor{
 	background-color:#524C4C;
+	color:#ffffff;
 
 }
 p:hover{
@@ -43,4 +44,5 @@ h3:hover{
 }
 .fondo{
 	background-color: #E6E6E6;
+	color: black;
 }
